@@ -1,0 +1,20 @@
+[9724:9136:1109/090754.012:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9724:9136:1109/090754.405:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15456:8100:1109/090816.007:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A71FDBE5DDAD97BFBB0F7A42452874B6 will be ignored
+[13000:15600:1109/090817.112:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13000:16548:1109/090817.306:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13000:16548:1109/090817.307:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13000:16548:1109/090817.323:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9724:18616:1109/090817.839:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9724:9136:1109/090818.413:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9724:9136:1109/090818.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9724:9136:1109/090818.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9724:9136:1109/090818.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9724:18616:1109/090818.428:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19216:13256:1109/090819.001:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19216:6172:1109/090819.285:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19216:6172:1109/090819.285:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19216:6172:1109/090819.286:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19216:13256:1109/090822.737:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3056:3060:1109/091037.844:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3056:3060:1109/091037.845:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
